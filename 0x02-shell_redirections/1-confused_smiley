@@ -1,2 +1,6 @@
+
+echo "\"(Ôo)'"
+:wq
+\:wq
 #!/bin/bash
- "\"(Ôo)"
+ echo "\"(Ôo)"
